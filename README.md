@@ -8,3 +8,9 @@
 - Clean, minimalist interface
 - Built for pure pawsitivity 🐱
 
+##  Contributors List
+- Debayan Ghosh
+
+## Contact
+- debayanghosh@gmail.com
+- 9856231457
